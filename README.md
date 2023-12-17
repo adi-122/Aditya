@@ -1,4 +1,5 @@
-# Aditya
+#Rose Plant Leaves Disease Detection and Pesticide Management 
+
 Forecasting of rose leaf disease (Quantification) as soon it appears on rose leaves.
 Automatic detection of rose leaf disease detection and classification.
 Increase accuracies Using large dataset to train the Algorithm and maximize epoch values.
